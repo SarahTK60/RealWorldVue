@@ -1,12 +1,12 @@
-# real-world-vue
+# Real World Vue
 
 This project is a practical exercise from the [VueMastery](https://www.vuemastery.com/) tutorial "Real World Vue 3"
 
 ## Clone this repository
 
-Open a terminal
-Change the current working directory to the location where you want the cloned directory
-Type
+- Open a terminal
+- Change the current working directory to where you want to place the cloned directory
+- Type
 
 ```sh
 git clone https://github.com/SarahTK60/RealWorldVue.git
